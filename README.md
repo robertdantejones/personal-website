@@ -1,2 +1,2 @@
 # personal-website
- development of my personal website 
+ this is the development of my personal website 
